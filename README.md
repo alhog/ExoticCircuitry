@@ -1,6 +1,6 @@
 # Exotic Circuitry
 
-**The Exotic Basket**:
+### **The Exotic Basket**:
 The Exotic Basket serves as the core investment vehicle and the central component of the ecosystem. It represents a curated and dynamically managed portfolio of promising decentralized applications (dApps) within the decentralized landscape. The Exotic Basket interacts with various other components to facilitate its creation, management, and optimization.
 
 **Interaction with Modular Basket Composition**:
