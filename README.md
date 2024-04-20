@@ -296,25 +296,25 @@ Establish decentralized circuit marketplaces, where users can trade, buy, or sel
                           │                        │
                           │       EXOTIC BASKET    │
                           │                        │
-                          └─────┬───────────┬───────┘
+                          └─────┬───────────┬──────┘
                                 │           │
-                         ┌──────┴──────┐ ┌───┴───────┐
-                         │             │ │           │
-                         │   MODULAR   │ │ COMPOSABLE│
-                         │   BASKET    │ │  BASKET   │
-                         │  COMPOSITION│ │  BUILDING │
-                         │             │ │           │
-                         └─────┬───────┘ └──────┬────┘
-                               │                │
-                         ┌─────┴──────┐        │
-                         │             │        │
-           ┌─────────────►  MODULAR    ├────────┘
+                         ┌──────┴──────┐ ┌──┴───────┐
+                         │             │ │          │
+                         │   MODULAR   │ │COMPOSABLE│
+                         │   BASKET    │ │ BASKET   │
+                         │  COMPOSITION│ │ BUILDING │
+                         │             │ │          │
+                         └─────┬───────┘ └─────┬────┘
+                               │               │
+                         ┌─────┴───────┐       │
+                         │             │       │
+           ┌─────────────►  MODULAR    ├───────┘
            │             │   EXOTIC    │
            │             │  FUNCTIONS  │
            │             │             │
            │             └─────┬───────┘
            │                   │
-           │             ┌─────┴──────┐
+           │             ┌─────┴───────┐
            │             │             │
            │             │  CIRCUIT    │
            │             │  STAKING &  │
@@ -322,36 +322,36 @@ Establish decentralized circuit marketplaces, where users can trade, buy, or sel
            │             │             │
            │             └──────┬──────┘
            │                    │
-           │             ┌───────┴────────┐
-           └─────────────┤                │
-                         │     MODULAR    │
-                         │     ENERGY     │
-                         │   INTEGRATION  │
-                         │                │
-                         └───────┬────────┘
-                                 │
-                         ┌───────┴────────┐
-                         │                │
-                         │   COMPOSABLE   │
-                         │    SENSOR      │
-                         │    NETWORKS    │
-                         │                │
-                         └───────┬────────┘
-                                 │
-                         ┌───────┴────────┐
-                         │                │
-                         │    MODULAR     │
-                         │    SMART       │
-                         │   CONTRACTS    │
-                         │                │
-                         └───────┬────────┘
-                                 │
-                         ┌───────┴────────┐
-                         │                │
-                         │    CIRCUIT     │
-                         │   MARKETPLACES │
-                         │                │
-                         └────────────────┘
+           │             ┌──────┴────────┐
+           └─────────────┤               │
+                         │    MODULAR    │
+                         │    ENERGY     │
+                         │  INTEGRATION  │
+                         │               │
+                         └──────┬────────┘
+                                │
+                         ┌──────┴────────┐
+                         │               │
+                         │  COMPOSABLE   │
+                         │   SENSOR      │
+                         │   NETWORKS    │
+                         │               │
+                         └──────┬────────┘
+                                │
+                         ┌──────┴────────┐
+                         │               │
+                         │   MODULAR     │
+                         │   SMART       │
+                         │  CONTRACTS    │
+                         │               │
+                         └──────┬────────┘
+                                │
+                         ┌──────┴────────┐
+                         │               │
+                         │   CIRCUIT     │
+                         │  MARKETPLACES │
+                         │               │
+                         └───────────────┘
 ```
 
 
