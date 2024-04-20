@@ -1,6 +1,7 @@
 # Exotic Circuitry
 
-1. **Modular Basket Composition**: Implement a modular architecture for the Exotic Basket, where individual dApps or assets are represented as self-contained circuits or modules. These modules can be easily added, removed, or swapped within the basket, enabling dynamic and flexible compositions. This approach would facilitate the autonomous rebalancing mechanism by allowing seamless integration and reconfiguration of the basket components.
+### **Modular Basket Composition**
+Implement a modular architecture for the Exotic Basket, where individual dApps or assets are represented as self-contained circuits or modules. These modules can be easily added, removed, or swapped within the basket, enabling dynamic and flexible compositions. This approach would facilitate the autonomous rebalancing mechanism by allowing seamless integration and reconfiguration of the basket components.
    
     **Modular Basket Composition**:
    - The Exotic Basket's composition is represented as a collection of modular circuits, where each circuit encapsulates a specific dApp or asset.
@@ -11,7 +12,8 @@
    - Each modular circuit can encapsulate its own logic, state management, and data storage mechanisms, promoting encapsulation and modularity within the overall basket composition.
    - The modular circuits can leverage distributed ledger technology (DLT) and decentralized storage solutions (e.g., IPFS, Arweave) to ensure data integrity, transparency, and immutability.
 
-3. **Composable Basket Building**: Extend the existing composable basket building feature by representing each dApp or asset as a composable circuit. Users could then combine and assemble these circuits in various configurations to create custom baskets tailored to their preferences or investment strategies. This composability would empower users with greater control and customization options.
+### **Composable Basket Building**: 
+Extend the existing composable basket building feature by representing each dApp or asset as a composable circuit. Users could then combine and assemble these circuits in various configurations to create custom baskets tailored to their preferences or investment strategies. This composability would empower users with greater control and customization options.
    
    **Composable Basket Building**:
    - The composable basket building feature empowers users to create custom baskets by combining and assembling individual modular circuits.
@@ -22,7 +24,8 @@
    - The composable basket building feature leverages the modular architecture and standardized interfaces of the individual circuits, ensuring compatibility and interoperability within the composed baskets.
 
 
-5. **Modular Exotic Functions**: Implement exotic functions, such as predictive analytics, portfolio optimization, and trend detection, as modular circuits. These modular circuits could be easily integrated or swapped within the autonomous rebalancing mechanism, allowing for the incorporation of new or improved algorithms and models without disrupting the core functionality.
+### **Modular Exotic Functions**: 
+Implement exotic functions, such as predictive analytics, portfolio optimization, and trend detection, as modular circuits. These modular circuits could be easily integrated or swapped within the autonomous rebalancing mechanism, allowing for the incorporation of new or improved algorithms and models without disrupting the core functionality.
    
     **Modular Exotic Functions**:
    - Exotic functions, such as predictive analytics, portfolio optimization, and trend detection algorithms, are implemented as modular circuits within the Exotic Basket ecosystem.
@@ -63,7 +66,8 @@
 
 *By implementing exotic functions as modular circuits, the Exotic Basket ecosystem gains flexibility and scalability, allowing for the seamless integration of new algorithms, models, or improved versions as they become available. Additionally, the modular design promotes code reusability, maintainability, and the ability to swap or update individual components without disrupting the entire system.*
 
-4. **Circuit Staking and Incentives**: Introduce a circuit staking mechanism, where users can stake or lock their composable circuits (representing dApps or assets) within the Exotic Basket. This staking process could be incentivized through the native token, rewarding users for contributing to the basket's composition and stability.
+### **Circuit Staking and Incentives**: 
+Introduce a circuit staking mechanism, where users can stake or lock their composable circuits (representing dApps or assets) within the Exotic Basket. This staking process could be incentivized through the native token, rewarding users for contributing to the basket's composition and stability.
 
 **Circuit Staking**:
 - The circuit staking mechanism allows users to stake or lock their composable circuits (representing dApps or assets) within the Exotic Basket.
