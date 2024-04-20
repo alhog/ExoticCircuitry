@@ -1,6 +1,7 @@
 # Exotic Circuitry
 
 1. **Modular Basket Composition**: Implement a modular architecture for the Exotic Basket, where individual dApps or assets are represented as self-contained circuits or modules. These modules can be easily added, removed, or swapped within the basket, enabling dynamic and flexible compositions. This approach would facilitate the autonomous rebalancing mechanism by allowing seamless integration and reconfiguration of the basket components.
+   
     **Modular Basket Composition**:
    - The Exotic Basket's composition is represented as a collection of modular circuits, where each circuit encapsulates a specific dApp or asset.
    - These modular circuits are designed using a standardized interface and communication protocol, enabling seamless integration and interoperability within the basket.
@@ -11,6 +12,7 @@
    - The modular circuits can leverage distributed ledger technology (DLT) and decentralized storage solutions (e.g., IPFS, Arweave) to ensure data integrity, transparency, and immutability.
 
 3. **Composable Basket Building**: Extend the existing composable basket building feature by representing each dApp or asset as a composable circuit. Users could then combine and assemble these circuits in various configurations to create custom baskets tailored to their preferences or investment strategies. This composability would empower users with greater control and customization options.
+   
    **Composable Basket Building**:
    - The composable basket building feature empowers users to create custom baskets by combining and assembling individual modular circuits.
    - A user interface or composition toolkit is provided, allowing users to visually construct their desired basket compositions by selecting and arranging modular circuits representing various dApps or assets.
@@ -21,6 +23,7 @@
 
 
 5. **Modular Exotic Functions**: Implement exotic functions, such as predictive analytics, portfolio optimization, and trend detection, as modular circuits. These modular circuits could be easily integrated or swapped within the autonomous rebalancing mechanism, allowing for the incorporation of new or improved algorithms and models without disrupting the core functionality.
+   
     **Modular Exotic Functions**:
    - Exotic functions, such as predictive analytics, portfolio optimization, and trend detection algorithms, are implemented as modular circuits within the Exotic Basket ecosystem.
    - These modular circuits can be developed using various technologies, such as smart contracts, decentralized oracles, or off-chain computation services (e.g., trusted execution environments, secure enclaves).
